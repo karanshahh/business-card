@@ -1,6 +1,6 @@
 # Digital Business Card
 
-Check out my digital business card here: [Karan's Digital Card](https://digitalcard-karan.netlify.app/).
+Check out my digital business card here: [My Personal Digital Card](https://digitalcard-karan.netlify.app/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
