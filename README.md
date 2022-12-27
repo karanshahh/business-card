@@ -1,7 +1,6 @@
 # Digital Business Card
 
-Check out my digital business card here: <a href="https://digitalcard-karan.netlify.app/" target="_blank">Digital Card.</a>
-
+Check out my digital business card here: <a href="https://digitalcard-karan.netlify.app/" target="_blank">example</a>.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
