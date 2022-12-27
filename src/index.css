@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.app {
+    margin: auto;
+    width: 317px;
+    height: 780px;
+    background-color: #1A1B21;
+    margin: auto;
+    margin-top: 46px;
+}
+
+body {
+    background: #1A1B21;
+}
+
+.profile-pic {
+    width: 317px;
+    height: 317px;
+    left: 116px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.info-items,
+.about,
+.interests,
+.socials {
+    background: #23252C;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.info-items {
+    font-family: 'Inter';
+    font-style: normal;
+    text-align: center;
+}
+
+.my-name {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding-top: 21px;
+}
+
+.role {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    color: #F3BF99;
+    padding-top: 6.19px;
+}
+
+.website {
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    text-align: center;
+    padding-top: 8.81px;
+    color: #F5F5F5;
+}
+
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+.button-email,
+.button-linkedin {
+    padding: 9px 13px 9px 11px;
+    width: 115px;
+    height: 34px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    text-decoration: none;
+}
+
+.button-email {
+    background: #FFFFFF;
+    color: #374151;
+}
+
+.button-linkedin {
+    background: #5093E2;
+    color: #FFFFFF;
+    margin-right: 17px;
+}
+
+a.button-email:hover {
+    background: #5093E2;
+    color: #FFFFFF;
+}
+
+a.button-linkedin:hover {
+    background: #FFFFFF;
+    color: #374151;
+}
+
+.button-email>i,
+.button-linkedin>i {
+    margin-right: 8px;
+}
+
+.about-title,
+.about-content {
+    font-family: 'Inter';
+    font-style: normal;
+    line-height: 150%;
+}
+
+.about-title,
+.interests-title {
+    font-weight: 700;
+    font-size: 16px;
+    color: #F5F5F5;
+    padding-top: 27px;
+}
+
+.about-content {
+    font-weight: 400;
+    font-size: 10.24px;
+    color: #DCDCDC;
+}
+
+.interests {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #DCDCDC;
+    padding-bottom: 24px;
+}
+
+.socials {
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.socials>a:hover>.logo {
+    background-color: #ffffff;
+    color: #360342;
+}
+
+.logo {
+    margin: 0 8px;
+    font-size: 24px;
+    text-decoration: none;
+    background-color: #444444;
+    border-radius: 5px;
+}
+
+a {
+    color: #101113;
+}
