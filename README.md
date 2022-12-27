@@ -1,6 +1,6 @@
 # Digital Business Card
 
-Check out my digital business card here: 
+Check out my digital business card here: [Digital Card](https://digitalcard-karan.netlify.app/).
 
 # Getting Started with Create React App
 
